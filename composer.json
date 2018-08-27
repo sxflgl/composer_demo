@@ -1,0 +1,14 @@
+{
+    "name": "sxflgl/composer_demo",
+    "description": "my demo",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "sxflgl",
+            "email": "723861002@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
